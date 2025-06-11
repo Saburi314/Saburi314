@@ -1,21 +1,18 @@
-<!-- ============= Angry Cat | Saburi314 | Scolded Cat ============= -->
+<!-- ===== Angry Cat | Saburi314 | Scolded Cat ===== -->
 <p align="center">
   <!-- 左：angry 猫 -->
-  <img src="./assets/angry_cat.gif" width="90" alt="angry cat">
+  <img src="./assets/angry_cat.gif" width="60" alt="angry cat"/>
 
-  <!-- 中央：Saburi314（白文字 & 背景 #2F2F2F） -->
+  <!-- 中央：Saburi314（白文字・濃グレー背景） -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=42&duration=3500&pause=700&color=FFFFFF&background=2F2F2F&center=true&vCenter=true&repeat=false&width=420&height=80&lines=Saburi314"
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=FFFFFF&background=2F2F2F&center=true&vCenter=true&repeat=false&width=300&height=60&lines=Saburi314"
     alt="Saburi314 typing"
-  >
+  />
 
   <!-- 右：scolded 猫 -->
-  <img src="./assets/a_cat_being_scolded.gif" width="90" alt="scolded cat">
+  <img src="./assets/a_cat_being_scolded.gif" width="60" alt="scolded cat"/>
 </p>
-
 <hr/>
-
-
 <!-- ============ Tech Stack Icons ============ -->
 <h3 align="center">🛠 Tech Stack</h3>
 
