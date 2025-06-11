@@ -7,6 +7,16 @@
   --><img src="./assets/a_cat_being_scolded.gif" width="90" height="90" alt="scolded cat">
 </p>
 <hr/>
+
+<!-- ============ My Website ============ -->
+<p align="center">
+  <a href="https://saburi314.com/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/My&nbsp;Website-saburi314.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visit saburi314.com">
+  </a>
+</p>
+
 <!-- ============ Tech Stack Icons ============ -->
 <h3 align="center">🛠 Tech Stack</h3>
 
