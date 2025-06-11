@@ -2,11 +2,10 @@
 <p align="center">
   <img src="./assets/angry_cat.gif" width="90" height="90" alt="angry cat"><!--
   --><img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=FFFFFF&background=313336&center=true&vCenter=true&repeat=false&width=320&height=90&lines=Hi,I'm Saburi314"
-    width="320" height="90" alt="Saburi314 typing"><!--
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=FFFFFF&background=313336&center=true&vCenter=true&repeat=false&width=320&height=90&lines=Hi%2C+I%27m+Saburi314"
+    width="320" height="90" alt="Hi, I'm Saburi314 typing"><!--
   --><img src="./assets/a_cat_being_scolded.gif" width="90" height="90" alt="scolded cat">
 </p>
-
 <hr/>
 <!-- ============ Tech Stack Icons ============ -->
 <h3 align="center">🛠 Tech Stack</h3>
