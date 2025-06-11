@@ -1,10 +1,18 @@
-<!-- ============ Name Animation ============ -->
+<!-- =========== Name + Cat Animation =========== -->
 <p align="center">
-<img
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=F7C52C&center=true&vCenter=true&width=600&height=60&lines=Saburi314"
-  alt="Saburi314 typing"
-/>
+  <!-- 左のネコ -->
+  <img src="./assets/cat.gif" width="70" alt="cat left"/>
+  
+  <!-- タイピングする名前 -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=F7C52C&center=true&vCenter=true&width=400&height=60&lines=Saburi314"
+    alt="Saburi314 typing"
+  />
+  
+  <!-- 右のネコ -->
+  <img src="./assets/cat.gif" width="70" alt="cat right"/>
 </p>
+
 
 <hr/>
 
