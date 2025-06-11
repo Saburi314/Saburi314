@@ -1,18 +1,25 @@
-<!-- =========== Name + Cat Animation =========== -->
-<p align="center">
-  <!-- 左のネコ -->
-  <img src="./assets/cat.gif" width="70" alt="cat left"/>
-  
-  <!-- タイピングする名前 -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=F7C52C&center=true&vCenter=true&width=400&height=60&lines=Saburi314"
-    alt="Saburi314 typing"
-  />
-  
-  <!-- 右のネコ -->
-  <img src="./assets/cat.gif" width="70" alt="cat right"/>
-</p>
+<!-- ========== Angry Cat + Saburi314 + Scolded Cat ========== -->
+<table align="center" border="0">
+  <tr bgcolor="#555555">
+    <!-- 左：angry 猫 -->
+    <td>
+      <img src="./assets/angry_cat.gif" width="90" alt="angry cat"/>
+    </td>
 
+    <!-- 中央：Saburi314 タイピング (白文字・灰背景) -->
+    <td>
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=FFFFFF&background=555555&center=true&vCenter=true&width=400&height=60&lines=Saburi314"
+        alt="Saburi314 typing"
+      />
+    </td>
+
+    <!-- 右：scolded 猫 -->
+    <td>
+      <img src="./assets/a_cat_being_scolded.gif" width="90" alt="scolded cat"/>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
