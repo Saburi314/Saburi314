@@ -3,7 +3,7 @@
   <img src="./assets/angry_cat.gif" width="90" height="90" alt="angry cat"/>
   <img
     src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=FFFFFF&background=2F2F2F&center=true&vCenter=true&repeat=false&width=300&height=60&lines=Saburi314"
-    width="auto" height="90" alt="Saburi314 typing"
+    width="320" height="90" alt="Saburi314 typing"
   />
   <img src="./assets/a_cat_being_scolded.gif" width="90" height="90" alt="scolded cat"/>
 </p>
