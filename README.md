@@ -6,7 +6,6 @@
     width="320" height="90" alt="Hi, I'm Saburi314 typing"><!--
   --><img src="./assets/a_cat_being_scolded.gif" width="90" height="90" alt="scolded cat">
 </p>
-<hr/>
 
 <!-- ============ My Website ============ -->
 <p align="center">
@@ -16,6 +15,8 @@
       alt="Visit saburi314.com">
   </a>
 </p>
+
+<hr/>
 
 <!-- ============ Tech Stack Icons ============ -->
 <h3 align="center">🛠 Tech Stack</h3>
