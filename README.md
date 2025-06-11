@@ -1,7 +1,9 @@
 <!-- ============ Name Animation ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=36&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=60&lines=佐部利雄太+%2F+Yuta+Saburi"
-       alt="typing intro" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=40&duration=3500&pause=700&color=F7C52C&center=true&vCenter=true&width=600&height=60&lines=Saburi314"
+  alt="Saburi314 typing"
+/>
 </p>
 
 <hr/>
